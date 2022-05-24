@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const { errorHandler } = require("./middleware/errorMiddleware");
 const cors = require("cors");
-const port = process.env.port || 8000;
+const port = process.env.port || 3000;
 
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
