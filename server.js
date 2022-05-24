@@ -1,42 +1,14 @@
 const express = require("express");
 const app = express();
-const listingData = require("./listings.json");
-const PORT = 5000;
+const { errorHandler } = require("./middleware/errorMiddleware");
+const PORT = 8000;
 
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
-app.post("/api/listings", (req, res) => {
-  const { ...args } = req.body;
-  console.log(args);
-  listingData.listings.push({
-    type,
-    bedrooms,
-    bathrooms,
-    offer,
-    regularPrice,
-    discountedPrice,
-    id: parseInt(id++),
-  });
-  res.status(200);
-  res.json(listingData.listings);
-});
+app.use("/api/data", require("./routes/routes"));
 
-app.get("/api/listings/:id", (req, res) => {
-  const { id } = req.params;
-  const listing = listingData.listings.find((list) => list.id === id);
-  res.json(listing);
-});
-
-app.get("/api/listings", (req, res) => {
-  res.status(200).json(listingData);
-});
-
-app.get("/", (req, res) => {
-  res.send(
-    '<h1>You dont wanna hit this endpoint.</h1> <a href="/api/listings">Go here instead</a>'
-  );
-});
+app.use(errorHandler);
 
 app.listen(PORT, () => {
   console.log(`Listening on port ${PORT}`);
