@@ -18,6 +18,8 @@ app.post("/api/listings", (req, res) => {
     discountedPrice,
     id: parseInt(id++),
   });
+  res.status(200);
+  res.json(listingData.listings);
 });
 
 app.get("/api/listings/:id", (req, res) => {

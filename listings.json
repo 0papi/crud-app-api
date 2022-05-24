@@ -12,12 +12,7 @@
       "regularPrice": 2500,
       "discountedPrice": 2000,
       "location": "8601 West Peachtree St Stratford, CT 06614",
-      "geolocation": {
-        "lat": "41.205590",
-        "lng": "-73.150530"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1524431144429-03fdd30eee26?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ODYwMSUyMHdlc3QlMjBwZWFjaHRyZWUlMjBzdCUyMHN0cmF0Zm9yZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1524431144429-03fdd30eee26?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ODYwMSUyMHdlc3QlMjBwZWFjaHRyZWUlMjBzdCUyMHN0cmF0Zm9yZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500"
     },
     {
       "id": "2",
@@ -30,12 +25,7 @@
       "offer": false,
       "regularPrice": 650000,
       "location": "517 High Ridge St Flowery Branch, GA 30542",
-      "geolocation": {
-        "lat": "34.1851",
-        "lng": "-83.9252"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1521783593447-5702b9bfd267?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1521783593447-5702b9bfd267?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500"
     },
     {
       "id": "3",
@@ -49,12 +39,7 @@
       "regularPrice": 700000,
       "discountedPrice": 690000,
       "location": "9814B Cedar Swamp Street Cincinnati, OH 45211",
-      "geolocation": {
-        "lat": "39.144320",
-        "lng": "-84.569630"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500"
     },
     {
       "id": "4",
@@ -69,12 +54,7 @@
       "regularPrice": 720000,
       "discountedPrice": 670000,
       "location": "7644 Carswold Dr Clayton, MO, 63105",
-      "geolocation": {
-        "lat": "35.628690",
-        "lng": "-78.455520"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1600607688960-e095ff83135c?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1600607688960-e095ff83135c?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500"
     },
     {
       "id": "5",
@@ -88,12 +68,7 @@
       "offer": false,
       "regularPrice": 630000,
       "location": "810 North Lyme Drive Milton, MA 02186",
-      "geolocation": {
-        "lat": "42.247270",
-        "lng": "-71.053470"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500"
     },
     {
       "id": "6",
@@ -107,12 +82,7 @@
       "regularPrice": 2300,
       "discountedPrice": 1900,
       "location": "11 Buttonwood Street Fort Lauderdale, FL 33308",
-      "geolocation": {
-        "lat": "26.209080",
-        "lng": "-80.112100"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbnRhbCUyMGhvbWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbnRhbCUyMGhvbWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500"
     },
     {
       "id": "7",
@@ -126,12 +96,7 @@
       "regularPrice": 2300,
       "discountedPrice": 1900,
       "location": "11 Buttonwood Street Fort Lauderdale, FL 33308",
-      "geolocation": {
-        "lat": "26.209080",
-        "lng": "-80.112100"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbnRhbCUyMGhvbWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbnRhbCUyMGhvbWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500"
     },
     {
       "id": "8",
@@ -145,12 +110,7 @@
       "regularPrice": 2300,
       "discountedPrice": 1900,
       "location": "11 Buttonwood Street Fort Lauderdale, FL 33308",
-      "geolocation": {
-        "lat": "26.209080",
-        "lng": "-80.112100"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbnRhbCUyMGhvbWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&raw_url=true&q=60&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbnRhbCUyMGhvbWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500"
     },
     {
       "id": "9",
@@ -164,12 +124,7 @@
       "regularPrice": 3000,
       "discountedPrice": 2500,
       "location": "11 Buttonwood Street Fort Lauderdale, FL 33308",
-      "geolocation": {
-        "lat": "26.209080",
-        "lng": "-80.112100"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500",
-      "timestamp": "00:00:00"
+      "imageUrl": "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmVudGFsJTIwaG9tZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500"
     }
   ]
 }
