@@ -10,15 +10,9 @@ app.use(express.json());
 app.use("/api/data", require("./routes/routes"));
 
 app.use(errorHandler);
-app.use(cors());
 
-// cors middleware
-app.use((req, res, next) => {
-  res.setHeader("Acces-Control-Allow-Origin", "*");
-  res.setHeader("Acces-Control-Allow-Methods", "GET,POST,PUT,PATCH,DELETE");
-  res.setHeader("Acces-Contorl-Allow-Methods", "Content-Type", "Authorization");
-  next();
-});
+// use cors middleware
+app.use(cors());
 
 app.listen(port, () => {
   console.log(`Listening on port ${port}`);
