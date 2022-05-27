@@ -9,7 +9,7 @@ app.use(express.json());
 
 app.use("/api/data", require("./routes/routes"));
 
-app.use(errorHandler);
+// app.use(errorHandler());
 
 // use cors middleware
 app.use(cors());

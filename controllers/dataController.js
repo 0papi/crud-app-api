@@ -52,9 +52,9 @@ const addData = (req, res) => {
     res.status(400);
     throw new Error("Please add the necessary fields");
   }
+  console.log(req.body);
   listingData.listings.push({ ...newData, id: uuid() });
-  res.status(200);
-  res.json(listingData.listings);
+  res.status(200).json(listingData.listings);
 };
 
 //   to get a single data using the id
